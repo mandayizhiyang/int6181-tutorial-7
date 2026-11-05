@@ -21,4 +21,5 @@ jobs:
           python-version: '3.x'
 
       - name: Run teacher tests
-        run: python test_prime.py
+        run: parking_fee.py
+
